@@ -105,3 +105,10 @@ li:nth-child(3){
 .gras{
     font-weight: bold;
 }
+
+.coté{
+    display: flex;
+}
+#cotéé{
+    display: flex;
+}
